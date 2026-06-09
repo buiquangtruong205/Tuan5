@@ -1,0 +1,1 @@
+window.URLHosting = "/api";
